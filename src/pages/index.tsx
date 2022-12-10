@@ -1,6 +1,8 @@
 import Head from 'next/head'
 import { css } from '@emotion/react'
 
+import { Card } from '@/components/Card'
+
 export default function Home() {
   return (
     <div>
@@ -9,12 +11,19 @@ export default function Home() {
       </Head>
 
       <main>
-        <p css={testStyle}>テスト</p>
+        <section css={contentBlockStyle}>
+          <Card />
+          <Card />
+          <Card />
+          <Card />
+          <Card />
+        </section>
       </main>
     </div>
   )
 }
 
-const testStyle = css`
-  color: red;
+const contentBlockStyle = css`
+  display: flex;
+  flex-wrap: wrap;
 `
