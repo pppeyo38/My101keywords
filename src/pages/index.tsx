@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import { css } from '@emotion/react'
 
 export default function Home() {
   return (
@@ -10,8 +11,12 @@ export default function Home() {
       </Head>
 
       <main>
-        <p>テスト</p>
+        <p css={testStyle}>テスト</p>
       </main>
     </div>
   )
 }
+
+const testStyle = css`
+  color: red;
+`
