@@ -1,12 +1,12 @@
 import { css } from '@emotion/react'
 import { Card } from '@/components/Card'
+import { keywordsDataType } from '@/type/keyword'
 
-import { keywordsData } from '@/type/keyword'
-import data from '@/data/keywords.json'
+type Props = {
+  keywords: keywordsDataType
+}
 
-export const CardsLayout = () => {
-  const keywords: keywordsData = data
-
+export const CardsLayout = ({ keywords }: Props) => {
   return (
     <section css={contentBlockStyle}>
       {keywords.map((item, index) => (

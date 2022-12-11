@@ -1,8 +1,8 @@
 import { css } from '@emotion/react'
-import { keyword } from '@/type/keyword'
+import { keywordType } from '@/type/keyword'
 import { cardColor } from '@/data/cardColor'
 
-export const Card = ({ type, content }: keyword) => {
+export const Card = ({ type, content }: keywordType) => {
   return (
     <div css={cardStyle} style={{ backgroundColor: `${cardColor[type]}` }}>
       <p css={textStyle}>{content}</p>

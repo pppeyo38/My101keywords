@@ -1,6 +1,6 @@
-export type keyword = {
+export type keywordType = {
   type: string
   content: string
 }
 
-export type keywordsData = keyword[]
+export type keywordsDataType = keywordType[]
