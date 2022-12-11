@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Love",
+    "content": "家族"
+  },
+  {
+    "type": "Love",
+    "content": "保護犬"
+  },
+  {
+    "type": "Love",
+    "content": "二次元アイドル"
+  },
+  {
+    "type": "Love",
+    "content": "声優"
+  },
+  {
+    "type": "Love",
+    "content": "スマホゲーム"
+  },
+  {
+    "type": "Love",
+    "content": "サーモンラン"
+  },
+  {
+    "type": "Love",
+    "content": "アニメ"
+  },
+  {
+    "type": "Love",
+    "content": "アイシャドウパレット"
+  },
+  {
+    "type": "Love",
+    "content": "フレグランス"
+  },
+  {
+    "type": "Love",
+    "content": "ミステリ小説"
+  },
+  {
+    "type": "Love",
+    "content": "創作漫画"
+  },
+  {
+    "type": "Love",
+    "content": "ファッション"
+  },
+  {
+    "type": "Love",
+    "content": "友達とお喋り"
+  },
+  {
+    "type": "Love",
+    "content": "一人時間"
+  },
+  {
+    "type": "Love",
+    "content": "推し活"
+  },
+  {
+    "type": "Love",
+    "content": "ラジオ"
+  },
+  {
+    "type": "Food",
+    "content": "ケーキ"
+  },
+  {
+    "type": "Food",
+    "content": "カフェ巡り"
+  },
+  {
+    "type": "Food",
+    "content": "コンビニスイーツ"
+  },
+  {
+    "type": "Food",
+    "content": "肉より魚"
+  },
+  {
+    "type": "Food",
+    "content": "米派"
+  },
+  {
+    "type": "Food",
+    "content": "アボカド"
+  },
+  {
+    "type": "Food",
+    "content": "豆腐"
+  },
+  {
+    "type": "Food",
+    "content": "チョコレート"
+  },
+  {
+    "type": "AboutMe",
+    "content": "冬生まれ冬好き"
+  },
+  {
+    "type": "AboutMe",
+    "content": "茨城出身"
+  },
+  {
+    "type": "AboutMe",
+    "content": "ぺよ"
+  },
+  {
+    "type": "AboutMe",
+    "content": "理系寄り"
+  },
+  {
+    "type": "AboutMe",
+    "content": "運動苦手"
+  },
+  {
+    "type": "AboutMe",
+    "content": "よく寝てよく食べる"
+  },
+  {
+    "type": "AboutMe",
+    "content": "新しいもの好き"
+  },
+  {
+    "type": "AboutMe",
+    "content": "特発性側弯症"
+  },
+  {
+    "type": "AboutMe",
+    "content": "整理整頓"
+  },
+  {
+    "type": "AboutMe",
+    "content": "ディズニーアトラクション効率厨"
+  },
+  {
+    "type": "AboutMe",
+    "content": "芸術工学"
+  },
+  {
+    "type": "AboutMe",
+    "content": "綺麗カッコいいもの好き"
+  },
+  {
+    "type": "AboutMe",
+    "content": "クロノタイプ オオカミ型"
+  },
+  {
+    "type": "AboutMe",
+    "content": "インドア派"
+  },
+  {
+    "type": "AboutMe",
+    "content": "狭く深く"
+  },
+  {
+    "type": "AboutMe",
+    "content": "健康体"
+  },
+  {
+    "type": "AboutMe",
+    "content": "慢性肩こり"
+  },
+  {
+    "type": "AboutMe",
+    "content": "元公文生"
+  },
+  {
+    "type": "AboutMe",
+    "content": "完了主義"
+  },
+  {
+    "type": "AboutMe",
+    "content": "管理者型"
+  },
+  {
+    "type": "Personality",
+    "content": "クリエイティブ"
+  },
+  {
+    "type": "Personality",
+    "content": "協調性"
+  },
+  {
+    "type": "Personality",
+    "content": "内向的"
+  },
+  {
+    "type": "Personality",
+    "content": "一途"
+  },
+  {
+    "type": "Personality",
+    "content": "熱狂"
+  },
+  {
+    "type": "Personality",
+    "content": "平和主義"
+  },
+  {
+    "type": "Personality",
+    "content": "信頼"
+  },
+  {
+    "type": "Personality",
+    "content": "諦め悪い"
+  },
+  {
+    "type": "Personality",
+    "content": "フォロワーシップ"
+  },
+  {
+    "type": "Personality",
+    "content": "一人で抱え込みがち"
+  },
+  {
+    "type": "Personality",
+    "content": "思いやり"
+  },
+  {
+    "type": "Personality",
+    "content": "褒められて伸びる"
+  },
+  {
+    "type": "Personality",
+    "content": "聞き手"
+  },
+  {
+    "type": "IT",
+    "content": "プログラミング"
+  },
+  {
+    "type": "IT",
+    "content": "フロントエンド"
+  },
+  {
+    "type": "IT",
+    "content": "Web"
+  },
+  {
+    "type": "IT",
+    "content": "React"
+  },
+  {
+    "type": "IT",
+    "content": "CSS"
+  },
+  {
+    "type": "IT",
+    "content": "Python"
+  },
+  {
+    "type": "IT",
+    "content": "Udemy"
+  },
+  {
+    "type": "IT",
+    "content": "Progate"
+  },
+  {
+    "type": "IT",
+    "content": "Appleユーザー"
+  },
+  {
+    "type": "IT",
+    "content": "リファクタリング"
+  },
+  {
+    "type": "IT",
+    "content": "デザインエンジニア"
+  },
+  {
+    "type": "IT",
+    "content": "Atomic Design"
+  },
+  {
+    "type": "Product",
+    "content": "Twitterヘビーユーザー"
+  },
+  {
+    "type": "Product",
+    "content": "AppleMusic"
+  },
+  {
+    "type": "Product",
+    "content": "YotTube"
+  },
+  {
+    "type": "Product",
+    "content": "ZOZOTOWN"
+  },
+  {
+    "type": "Product",
+    "content": "pixiv"
+  },
+  {
+    "type": "Product",
+    "content": "ABEMA"
+  },
+  {
+    "type": "Product",
+    "content": "Netflix"
+  },
+  {
+    "type": "Product",
+    "content": "ダークモード"
+  },
+  {
+    "type": "Design",
+    "content": "Webデザイン"
+  },
+  {
+    "type": "Design",
+    "content": "Figma"
+  },
+  {
+    "type": "Design",
+    "content": "UI/UX"
+  },
+  {
+    "type": "Design",
+    "content": "デザインシステム"
+  },
+  {
+    "type": "Design",
+    "content": "デザイントークン"
+  },
+  {
+    "type": "Design",
+    "content": "ユーザビリティ"
+  },
+  {
+    "type": "Design",
+    "content": "インタラクション"
+  },
+  {
+    "type": "Design",
+    "content": "カラーパレット"
+  },
+  {
+    "type": "Design",
+    "content": "Dribbble"
+  },
+  {
+    "type": "Design",
+    "content": "Pinterest"
+  },
+  {
+    "type": "Music",
+    "content": "音楽"
+  },
+  {
+    "type": "Music",
+    "content": "吹奏楽"
+  },
+  {
+    "type": "Music",
+    "content": "短調"
+  },
+  {
+    "type": "Music",
+    "content": "調性中毒"
+  },
+  {
+    "type": "Music",
+    "content": "ピアノ"
+  },
+  {
+    "type": "Music",
+    "content": "サックス"
+  },
+  {
+    "type": "Music",
+    "content": "J-POP"
+  },
+  {
+    "type": "Music",
+    "content": "ハモリ中毒"
+  },
+  {
+    "type": "Music",
+    "content": "一人カラオケ"
+  }
+]
