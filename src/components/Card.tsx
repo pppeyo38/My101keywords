@@ -1,9 +1,11 @@
 import { css } from '@emotion/react'
+import { keyword } from '@/type/keyword'
+import { cardColor } from '@/data/cardColor'
 
-export const Card = () => {
+export const Card = ({ type, content }: keyword) => {
   return (
-    <div css={cardStyle}>
-      <p css={textStyle}>テキスト</p>
+    <div css={cardStyle} style={{ backgroundColor: `${cardColor[type]}` }}>
+      <p css={textStyle}>{content}</p>
     </div>
   )
 }
@@ -13,7 +15,6 @@ const cardStyle = css`
   width: 18%;
   margin: 1%;
   color: #fff;
-  background-color: #6563d9;
 
   &:before {
     content: '';
