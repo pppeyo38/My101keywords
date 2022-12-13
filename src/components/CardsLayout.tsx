@@ -19,4 +19,12 @@ export const CardsLayout = ({ keywords }: Props) => {
 const contentBlockStyle = css`
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+  margin: 24px 0;
+
+  @media screen and (max-width: 950px) {
+    justify-content: center;
+    gap: 8px;
+  }
 `
