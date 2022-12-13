@@ -17,6 +17,10 @@
   },
   {
     "type": "Love",
+    "content": "無印良品"
+  },
+  {
+    "type": "Love",
     "content": "スマホゲーム"
   },
   {
@@ -62,6 +66,10 @@
   {
     "type": "Love",
     "content": "ラジオ"
+  },
+  {
+    "type": "Love",
+    "content": "コミュニケーション"
   },
   {
     "type": "Food",
@@ -117,6 +125,10 @@
   },
   {
     "type": "AboutMe",
+    "content": "芸術科目得意"
+  },
+  {
+    "type": "AboutMe",
     "content": "よく寝てよく食べる"
   },
   {
@@ -168,16 +180,24 @@
     "content": "元公文生"
   },
   {
-    "type": "AboutMe",
-    "content": "完了主義"
+    "type": "Personality",
+    "content": "目指せ完了主義"
   },
   {
-    "type": "AboutMe",
-    "content": "管理者型"
+    "type": "Personality",
+    "content": "穏やか"
   },
   {
     "type": "Personality",
     "content": "クリエイティブ"
+  },
+  {
+    "type": "Personality",
+    "content": "真面目"
+  },
+  {
+    "type": "Personality",
+    "content": "自責"
   },
   {
     "type": "Personality",
@@ -269,7 +289,7 @@
   },
   {
     "type": "IT",
-    "content": "デザインエンジニア"
+    "content": "デザイン好きエンジニア"
   },
   {
     "type": "IT",
@@ -285,7 +305,7 @@
   },
   {
     "type": "Product",
-    "content": "YotTube"
+    "content": "YouTube"
   },
   {
     "type": "Product",
