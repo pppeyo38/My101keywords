@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import { useEffect, useState } from 'react'
+import { Header } from '@/components/Header'
 import { CardsLayout } from '@/components/CardsLayout'
 import { useShuffle } from '@/hooks/useShuffle'
 import { keywordsDataType } from '@/type/keyword'
@@ -20,6 +21,7 @@ export default function Home() {
       </Head>
 
       <main>
+        <Header />
         <CardsLayout keywords={keywords} />
       </main>
     </div>
