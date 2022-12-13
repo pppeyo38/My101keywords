@@ -18,7 +18,7 @@ export default class MyDocument extends Document {
           <meta property="og:description" content="My 101 KeyWords" />
           <meta property="og:site_name" content="My 101 KeyWords" />
           <meta name="twitter:card" content="summary_large_image" />
-          <link rel="icon" href="/favicon.ico" />
+          <link rel="icon" href="/favicon.png" />
           <link
             href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;700&display=swap"
             rel="stylesheet"
