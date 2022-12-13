@@ -7,7 +7,6 @@ type Props = {
 }
 
 export const CardsLayout = ({ keywords }: Props) => {
-  console.log(keywords.length)
   return (
     <section css={contentBlockStyle}>
       {keywords.map((item, index) => (
